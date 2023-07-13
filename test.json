@@ -1,0 +1,69 @@
+{
+    "data": {
+        "id": 2,
+        "attributes": {
+            "createdAt": "2023-07-11T15:10:19.618Z",
+            "updatedAt": "2023-07-11T15:10:23.417Z",
+            "publishedAt": "2023-07-11T15:10:23.415Z",
+            "logo": {
+                "data": {
+                    "id": 1,
+                    "attributes": {
+                        "name": "logo_dark.webp",
+                        "alternativeText": null,
+                        "caption": null,
+                        "width": 48,
+                        "height": 48,
+                        "formats": null,
+                        "hash": "logo_dark_93e8dc84bc",
+                        "ext": ".webp",
+                        "mime": "image/webp",
+                        "size": 0.87,
+                        "url": "/uploads/logo_dark_93e8dc84bc.webp",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "createdAt": "2023-07-11T15:01:01.303Z",
+                        "updatedAt": "2023-07-11T15:01:01.303Z"
+                    }
+                }
+            },
+            "logodark": {
+                "data": {
+                    "id": 2,
+                    "attributes": {
+                        "name": "logo_fav.png",
+                        "alternativeText": null,
+                        "caption": null,
+                        "width": 329,
+                        "height": 329,
+                        "formats": {
+                            "thumbnail": {
+                                "name": "thumbnail_logo_fav.png",
+                                "hash": "thumbnail_logo_fav_7425a1adc2",
+                                "ext": ".png",
+                                "mime": "image/png",
+                                "path": null,
+                                "width": 156,
+                                "height": 156,
+                                "size": 5.4,
+                                "url": "/uploads/thumbnail_logo_fav_7425a1adc2.png"
+                            }
+                        },
+                        "hash": "logo_fav_7425a1adc2",
+                        "ext": ".png",
+                        "mime": "image/png",
+                        "size": 2.93,
+                        "url": "/uploads/logo_fav_7425a1adc2.png",
+                        "previewUrl": null,
+                        "provider": "local",
+                        "provider_metadata": null,
+                        "createdAt": "2023-07-11T15:01:01.381Z",
+                        "updatedAt": "2023-07-11T15:01:01.381Z"
+                    }
+                }
+            }
+        }
+    },
+    "meta": {}
+}
